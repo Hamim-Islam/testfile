@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+}
+html{
+	scroll-behaviour: 
+}
+h1{
+	background: green;
+}
+h2{
+	background: tomato;
+	position: sticky;
+	/*position: fixed;*/
+}
+p{
+	color: #fff;
+	font-size: 18px;
+	line-height: 1.5;
+	background: grey;
+}
